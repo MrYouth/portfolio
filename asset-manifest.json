@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9831d242.css",
+    "main.js": "/portfolio/static/js/main.03069151.js",
+    "static/media/image.png": "/portfolio/static/media/image.a2a15d15ad592dad5ba6.png",
+    "static/media/portfolio-1.jpeg": "/portfolio/static/media/portfolio-1.7f7d59e511d062690c9b.jpeg",
+    "static/media/portfolio-2.jpeg": "/portfolio/static/media/portfolio-2.fec4674ec79e0e3423a2.jpeg",
+    "static/media/portfolio-3.jpeg": "/portfolio/static/media/portfolio-3.6ecf9ce72eee3108f175.jpeg",
+    "static/media/MICONS (500 × 200 piksel).png": "/portfolio/static/media/MICONS (500 × 200 piksel).2e07936b1b043f1db2ae.png",
+    "static/media/portfolio-4.jpeg": "/portfolio/static/media/portfolio-4.4f309b493b41eb33d171.jpeg",
+    "static/media/WhatsApp.png": "/portfolio/static/media/WhatsApp.3332e2343e3e70426a01.png",
+    "static/media/ISFAL.png": "/portfolio/static/media/ISFAL.9d8eb1b4903aef78d60f.png",
+    "static/media/metronarc_technology_logo.png": "/portfolio/static/media/metronarc_technology_logo.98308a49faa36c884786.png",
+    "static/media/English-Mechatronics.jpg": "/portfolio/static/media/English-Mechatronics.daadd2b7568dee1c5244.jpg",
+    "static/media/english-engineer.png": "/portfolio/static/media/english-engineer.a1feaaf4e37687a0ba24.png",
+    "static/media/LinkedIn.png": "/portfolio/static/media/LinkedIn.e34dba44660ad6499758.png",
+    "static/media/internet-of-things.png": "/portfolio/static/media/internet-of-things.c62788b0a990a5a34a4e.png",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/english-community.png": "/portfolio/static/media/english-community.ae5161a6b9ab8c6dc8e7.png",
+    "index.html": "/portfolio/index.html",
+    "main.9831d242.css.map": "/portfolio/static/css/main.9831d242.css.map",
+    "main.03069151.js.map": "/portfolio/static/js/main.03069151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9831d242.css",
+    "static/js/main.03069151.js"
+  ]
+}
